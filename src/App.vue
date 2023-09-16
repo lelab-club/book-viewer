@@ -4,6 +4,7 @@
     :class="{ 'has-mouse': hasMouse }"
     @touchstart="hasMouse = false"
   >
+    <Ribbon />
     <Flipbook
       class="flipbook"
       :pages="pages"
