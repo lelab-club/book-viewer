@@ -121,6 +121,7 @@ export default {
         'book/19.jpg',
         'book/20.jpg',
         'book/21.jpg',
+        'book/22.jpg',
       ]
       this.pagesHiRes = this.pages
     }, 1)
