@@ -115,11 +115,12 @@ export default {
         'book/13.jpg',
         'book/14.jpg',
         'book/15.jpg',
-        // 'book/16.jpg',
+        'book/16.jpg',
         'book/17.jpg',
-        // 'book/18.jpg',
+        'book/18.jpg',
         'book/19.jpg',
         'book/20.jpg',
+        'book/21.jpg',
       ]
       this.pagesHiRes = this.pages
     }, 1)
