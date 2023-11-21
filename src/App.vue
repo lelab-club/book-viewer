@@ -127,6 +127,7 @@ export default {
         'book/24.jpg',
       ]
       this.pagesHiRes = this.pages
+
     }, 1)
 
     window.addEventListener('hashchange', this.setPageFromHash)
