@@ -1,6 +1,6 @@
 <template>
   <div class="github-ribbon">
-    <a target="_blank" href="book/Le%20Lab%20-%20Book%20Projet%20FLL%202024.pdf">Télécharger le book</a>
+    <a target="_blank" href="book/Le%20Lab%20-%20Book%20Projet%20FLL%2020242025.pdf">Télécharger le book</a>
   </div>
 </template>
 
